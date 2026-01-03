@@ -82,7 +82,7 @@ export default function App() {
           {/* Main Typography */}
           <div className="flex-1 flex flex-col justify-center items-center md:items-start h-full mt-20 md:mt-0">
             {/* Adjusted typography size for better balance: text-5xl/8xl/9xl -> text-4xl/6xl/8xl */}
-            <h1 className="font-jp-old text-4xl md:text-6xl lg:text-8xl font-black leading-tight tracking-tight text-center md:text-left mix-blend-screen opacity-90">
+            <h1 className="font-jp-old text-3xl md:text-5xl lg:text-7xl font-black leading-tight tracking-tight text-center md:text-left mix-blend-screen opacity-90">
               <span className="block mb-4 md:mb-6">ひとりで悩む時間を<br className="md:hidden"/>ゼロに。</span>
               <span className="block text-[#C5A059] opacity-90">正解へ導く<br /><br className="md:hidden"/>思考整理パートナー</span>
             </h1>
