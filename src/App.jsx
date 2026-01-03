@@ -84,7 +84,7 @@ export default function App() {
             {/* Adjusted typography size for better balance: text-5xl/8xl/9xl -> text-4xl/6xl/8xl */}
             <h1 className="font-jp-old text-3xl md:text-5xl lg:text-7xl font-black leading-tight tracking-tight text-center md:text-left mix-blend-screen opacity-90">
               <span className="block mb-4 md:mb-6">ひとりで悩む時間を<br className="md:hidden"/>ゼロに。</span>
-              <span className="block text-[#C5A059] opacity-90">正解へ導く<br /><br className="md:hidden"/>思考整理パートナー</span>
+              <span className="block text-[#C5A059] opacity-90">正解へ導く<br className="md:hidden"/>思考整理パートナー</span>
             </h1>
           </div>
 
@@ -97,7 +97,7 @@ export default function App() {
             
             <div className="text-center md:text-right font-en-serif">
               <p className="text-xl md:text-2xl italic text-gray-500 font-light">
-                単なる施策提案ではなく、<br />「目的の明確化」<br />「価値の整理」<br />「導線設計」<br />「顧客理解」を軸に、<br />戦略から実務まで一貫して支援します。
+                単なる施策提案ではなく、<br />「目的の明確化」<br />「価値の整理」<br />「導線設計」<br />「顧客理解」を軸に、<br />戦略から実行まで支援します。
               </p>
               <p className="text-sm tracking-widest uppercase mt-2 text-gray-600">
                 
@@ -155,15 +155,12 @@ export default function App() {
                 <div className="pl-6 border-l-2 border-[#C5A059] py-2">
                   <p className="font-medium text-white">
                     私が提供するのは、徹底的な「整理」と「設計」です。<br/>
-                    絡まり合った課題を因数分解し（整理）、<br/>
-                    あるべき場所に配置し直し（構造化）、<br/>
-                    人が自然と動く流れを作る（設計）。
+                    絡まり合った課題を因数分解し（整理）、あるべき場所に配置し直し（構造化）、人が自然と動く流れを作る（設計）。
                   </p>
                 </div>
                 <p>
-                  それは、ビジネスの基礎工事のようなものです。<br/>
-                  地味かもしれません。しかし、構造なき熱狂は脆い。<br/>
-                  強固な骨組みがあって初めて、あなたの想いは遠くまで届くのです。
+                  地味かもしれません。しかし、戦略なき戦術は脆い。<br/>
+                  強固な骨組みがあって初めて、想いは届けたい人に届くのです。
                 </p>
               </div>
             </FadeIn>
