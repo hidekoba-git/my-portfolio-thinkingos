@@ -97,10 +97,10 @@ export default function App() {
             
             <div className="text-center md:text-right font-en-serif">
               <p className="text-xl md:text-2xl italic text-gray-500 font-light">
-                私は、誰かの願いや想いを「形になる戦略」に編集、翻訳することを得意としています。言葉になっていない願望や曖昧なイメージの解像度を上げ、仕組みとして実行可能な形へと整えます。
+                単なる施策提案ではなく、「目的の明確化」「価値の整理」「導線設計」「顧客理解」を軸に、戦略から実務まで一貫して支援します。
               </p>
               <p className="text-sm tracking-widest uppercase mt-2 text-gray-600">
-                単なる施策提案ではなく、「目的の明確化」「価値の整理」「導線設計」「顧客理解」を軸に、戦略から実務まで一貫して支援します。
+                
               </p>
             </div>
           </div>
