@@ -95,7 +95,7 @@ export default function App() {
               ジャイアントキリングの設計図を描く。
             </div>
             
-            <div className="text-center md:text-right font-en-serif">
+            <div className="text-center md:text-right font-jp-serif">
               <p className="text-xl md:text-2xl italic text-gray-500 font-light">
                 単なる施策提案ではなく、<br />「目的の明確化」<br />「価値の整理」<br />「導線設計」<br />「顧客理解」を軸に、<br />戦略から実行まで支援します。
               </p>
