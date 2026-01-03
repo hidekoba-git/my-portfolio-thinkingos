@@ -97,10 +97,10 @@ export default function App() {
             
             <div className="text-center md:text-right font-en-serif">
               <p className="text-xl md:text-2xl italic text-gray-500 font-light">
-                Translating the Unspoken into Strategy.
+                私は、誰かの願いや想いを「形になる戦略」に編集、翻訳することを得意としています。言葉になっていない願望や曖昧なイメージの解像度を上げ、仕組みとして実行可能な形へと整えます。
               </p>
               <p className="text-sm tracking-widest uppercase mt-2 text-gray-600">
-                Your Silent Partner in Business Architecture
+                単なる施策提案ではなく、「目的の明確化」「価値の整理」「導線設計」「顧客理解」を軸に、戦略から実務まで一貫して支援します。
               </p>
             </div>
           </div>
@@ -180,7 +180,8 @@ export default function App() {
               <span className="font-en-serif text-6xl md:text-8xl text-gray-800">03</span>
               <div>
                 <h2 className="font-en-serif text-4xl md:text-5xl italic text-[#C5A059]">My Thinking OS</h2>
-                <p className="font-jp-serif text-sm tracking-widest mt-2 text-gray-500">私の基盤となる思考OS</p>
+                <p className="font-jp-serif text-sm tracking-widest mt-2 text-gray-500">私の仕事の中心には、状況や情報を「観察し、整理し、設計し、実行へつなげる」という一連の思考プロセスがあります。  
+これは単なるフレームワークではなく、日々の実務・コミュニケーション・戦略設計のすべてに通底する“思考OS”として機能しています。</p>
               </div>
             </div>
           </FadeIn>
