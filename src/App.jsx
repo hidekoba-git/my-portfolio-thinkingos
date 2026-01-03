@@ -97,7 +97,7 @@ export default function App() {
             
             <div className="text-center md:text-right font-en-serif">
               <p className="text-xl md:text-2xl italic text-gray-500 font-light">
-                単なる施策提案ではなく、<br/>「目的の明確化」「価値の整理」「導線設計」「顧客理解」を軸に、<br/>戦略から実務まで一貫して支援します。
+                単なる施策提案ではなく、<br />「目的の明確化」「価値の整理」「導線設計」「顧客理解」を軸に、<br />戦略から実務まで一貫して支援します。
               </p>
               <p className="text-sm tracking-widest uppercase mt-2 text-gray-600">
                 
